@@ -9,7 +9,7 @@ Bulk optimizing image from png or jpg for your website using `cwebp` command too
 I use Ubuntu, you can easily suit this solution in your environment.
 
 ```bash
-$ sudo apt install cwebp
+$ sudo apt install webp
 ```
 
 **Use this script**
